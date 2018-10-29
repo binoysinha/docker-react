@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-           Hi there, Docker POCs
+           Hi there, Deployed on AWS.
           </p>
           <a
             className="App-link"
